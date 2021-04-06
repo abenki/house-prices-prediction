@@ -4,4 +4,4 @@ The goal of this project was to predict house prices as accurately as possible. 
 
 Project group: BENKIRANE Anass, TANNAVONGSA Cécile, TOUNKARA Hawa
 
-University project at Télécom SudParis (NET4529), 2020-2021
+University project as part of the NET4529 course at Télécom SudParis, 2020-2021
